@@ -1,0 +1,44 @@
+.heading{
+    letter-spacing: 9px;
+    margin:0;
+    width:100%;
+    font-size: 30px;
+    font-family: cursive;
+}
+
+.heading:hover{
+    background-image: url("gifstar.gif");
+}
+
+#start{
+    box-shadow:5px 5px 4px blue;
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 20px;
+    width : 10%;
+}
+
+#number,#status{
+    border : 4px solid black;
+}
+
+canvas{
+    box-shadow: 5px 5px 10px red;
+    border : 5px ridge blue;
+    margin-top: 100px;
+    border-radius: 20px;
+}
+
+.footer{
+    color: white;
+    font-size: 18px;
+    position:fixed;
+    bottom:0px;
+    width:15%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body{
+    background: lime;
+}
+
